@@ -1,12 +1,12 @@
-# 📱 WhatsApp UI Clone (HTML & CSS)
+# 📱 Sneaker Store (HTML & CSS)
 
-A fully responsive WhatsApp Web UI clone built using pure HTML and CSS. This project focuses on replicating the layout and design of WhatsApp’s web interface while ensuring responsiveness across different screen sizes.
+A fully responsive Sneaker Store built using pure HTML and CSS. This project focuses on replicating the layout and design of Sneaker Store interface while ensuring responsiveness across different screen sizes.
 
 ---
 
 ## 🚀 Features
 
-* 📌 Clean and modern UI inspired by WhatsApp Web
+* 📌 Clean and modern UI b
 * 📱 Fully responsive design (works on desktop, tablet, and mobile)
 * 🎨 Styled using pure CSS (no frameworks used)
 * 🧱 Structured layout using Flexbox
@@ -46,9 +46,9 @@ A fully responsive WhatsApp Web UI clone built using pure HTML and CSS. This pro
 
 ## 🧠 Future Improvements
 
-* Add JavaScript for interactivity (chat switching, animations)
-* Implement backend for real-time messaging
-* Improve UI with micro-interactions
+* Add JavaScript for interactivity
+* Implement backend for real-time order
+
 
 
 
@@ -57,12 +57,12 @@ A fully responsive WhatsApp Web UI clone built using pure HTML and CSS. This pro
 1. Clone the repository
 
  
-  https://github.com/vishalrj291/Whatsapp-UI-Clone.git
+
  
 
 
  2. Deployment Link
-   https://whatsapp-ui-clone-9uuq.vercel.app/
+   
 
 
 
