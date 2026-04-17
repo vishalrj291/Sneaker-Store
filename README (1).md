@@ -55,15 +55,14 @@ A fully responsive Sneaker Store built using pure HTML and CSS. This project foc
 ## 📌 How to Run
 
 1. Clone the repository
-
- 
+https://github.com/vishalrj291/Sneaker-Store.git
 
  
 
 
  2. Deployment Link
    
-
+https://sneaker-store-7ots19hj0-vishal-rajs-projects-975f9546.vercel.app/
 
 
 
