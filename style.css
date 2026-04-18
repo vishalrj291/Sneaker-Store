@@ -107,12 +107,7 @@ h1{
     border: 3px solid #ffffff;
   }
 
-   Mobile: 320px–480px
-  Tablets: 481px–768px
-  Laptops: 769px–1024px
-  Desktops: 1025px–1200px
-  Extra large screens: 1201px and above
-  Desktop computers: 1920px 
+
 
 
 @media screen and (max-width:319px) {
@@ -236,6 +231,7 @@ h1{
         border-radius: 30px;
     }
 }
+
 @media screen and (min-width:1025px) and (max-width:1200px) {
     .store {
         margin: auto;
