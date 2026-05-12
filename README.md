@@ -1,4 +1,4 @@
-# 📱 Sneaker Store (HTML & CSS)
+# 📱 Sneaker Store ( Only HTML & CSS)
 
 A fully responsive Sneaker Store built using pure HTML and CSS. This project focuses on replicating the layout and design of Sneaker Store interface while ensuring responsiveness across different screen sizes.
 
